@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ali-mirzakhani.github.io/sitemap.xml
